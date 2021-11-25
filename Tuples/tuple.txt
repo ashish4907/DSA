@@ -1,1 +1,15 @@
+Tuples are used to store multiple items in a single variable.
+Tuples are immutable, which means they cannot be changed.
+
+1. Tuples are created by using parentheses () instead of square brackets []
+2. Tuples are created by using commas to separate the items
+3. The item of a tuple can be accessed by using the index number
+4. The items of the list can be of different data types
+5. Tuples are faster than lists
+
+The index number starts from 0
+You can use the index number to access the items of the tuple
+
+a. Positive index number
+b. Negative index number
 
