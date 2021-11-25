@@ -1,1 +1,9 @@
+Set are used to store multiple items in single variables
 
+1. Set is a collection of unique items
+2. Set is unordered
+3. Set is mutable
+4. Set is iterable
+5. Set are enclosed in curly braces {}
+6. The items of a list are separated by commas
+7. The items of a set are of different types
