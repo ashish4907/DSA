@@ -1,1 +1,13 @@
+Lists are used to store data of different data types in a sequential manner.
+
+1. Lists are enclosed in square brackets [].
+2. The elements of a list are separated by commas.
+3. The elements of a list can be of different data types.
+
+The index value starts from 0.
+You can access the elements of a list using the index value.
+a. Positive Index
+b. Negative Index
+
+List are mutable.
 
