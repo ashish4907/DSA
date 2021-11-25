@@ -1,1 +1,14 @@
+Dictionary are used to store the data.
+    // The keys are the names of the properties of the object.
+    // The values are the values of the properties.
+    // The keys are always strings.
+    // The values can be strings, numbers, dates, or other objects.
+Dictionary can be written in two ways:
+1. Using a dictionary literal
+2. Using a dictionary initializer
 
+Dictionaries are written with curly brackets, and have keys and values
+
+    let countryCodes = ["BR": "Brazil", "JP": "Japan"]
+    print(countryCodes["BR"]!)
+    // Prints "Brazil"
